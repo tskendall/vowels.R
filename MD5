@@ -1,0 +1,17 @@
+abfb1df13724ed92cc99ab1f3767e77d *DESCRIPTION
+98f52c73abd9ddf8e84b6b69c3fb1bc7 *NAMESPACE
+9200678ba2d9cade8f1f558409847478 *R/vowels.R
+55bc81c352d2f37107dcdbb61b77471d *data/ohiovowels.rda
+26196a4dd1222863e6963d1615d75408 *man/compute.means.Rd
+afbcf4e2a70dfaa063547073b87aa50e *man/convert.bark.Rd
+76b1d7f563f8ac3d811de03e4f367388 *man/label.columns.Rd
+d877ad97e59ff4abed208108898df606 *man/load.vowels.Rd
+5745653ed942f4803235a270c414e2d0 *man/norm.bark.Rd
+14bbc303b38822519c75563a66d2ac54 *man/norm.labov.Rd
+ea445e77eb4bd544566931a16cd72159 *man/norm.lobanov.Rd
+709a9562401424d35b46e89a1c75b6f3 *man/norm.nearey.Rd
+544175c23334013be94f1fa709d26ba8 *man/norm.wattfabricius.Rd
+132c5342e6bde2f500873218fda3e31a *man/ohiovowels.Rd
+f4f37f0acb4721782716563ca3d917bb *man/scalevowels.Rd
+66787218589e14113aa2a012acef5104 *man/vowelplot.Rd
+ae4868d55d46eb180852ff9dd909998f *man/vowels-package.Rd

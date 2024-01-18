@@ -1,0 +1,9 @@
+# NAMESPACE file for vowels_1.2-2
+
+# Export all names
+exportPattern(".")
+
+# Import names
+importFrom("graphics", "arrows", "legend", "lines", "mtext", "plot", "points", "text")
+importFrom("stats", "median", "prcomp", "sd")
+importFrom("utils", "read.table")
