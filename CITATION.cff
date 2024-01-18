@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Vowels.R
+message: 'Vowel Manipulation, Normalization, and Plotting in R'
+type: software
+authors:
+  - given-names: Tyler
+    family-names: Kendall
+    orcid: 'https://orcid.org/0000-0002-0989-1765'
+    affiliation: University of Oregon
+  - given-names: Erik
+    name-particle: R
+    family-names: Thomas
+    affiliation: North Carolina State University
+    orcid: 'https://orcid.org/0000-0002-8737-4819'
+identifiers:
+  - type: url
+    value: 'https://cran.r-project.org/web/packages/vowels/'
+    description: CRAN package
+repository-code: 'https://github.com/tskendall/vowels.R'
+url: 'http://lingtools.uoregon.edu/norm/'
+abstract: >-
+  Procedures for the manipulation, normalization, and
+  plotting of phonetic and sociophonetic vowel formant data.
+  Vowels is the backend for the NORM website.
+license: GPL-3.0
+version: 1.2-2
+date-released: '2018-03-05'
