@@ -14,4 +14,5 @@ Authors@R: c(person(given = "Tyler",
                         comment = c(ORCID = "0000-0002-8737-4819"))
 Description: Procedures for the manipulation, normalization, and plotting of phonetic and sociophonetic vowel formant data.  vowels is the backend for the NORM website.
 License: GPL-3
+Encoding: UTF-8
 URL: http://lingtools.uoregon.edu/norm/
