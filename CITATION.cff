@@ -19,7 +19,7 @@ identifiers:
     value: 'https://cran.r-project.org/web/packages/vowels/'
     description: CRAN package
 repository-code: 'https://github.com/tskendall/vowels.R'
-url: 'http://lingtools.uoregon.edu/norm/'
+url: 'https://lingtools.uoregon.edu/norm/'
 abstract: >-
   Procedures for the manipulation, normalization, and
   plotting of phonetic and sociophonetic vowel formant data.

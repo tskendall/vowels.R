@@ -12,6 +12,6 @@ data(ohiovowels)
 \details{
 This dataset includes 477 vowels from 2 speakers, a female and male, from Ohio.  This is the "CentralOhioNORM.txt" file available on the NORM website.
 }
-\source{\url{http://lingtools.uoregon.edu/norm/downloads/CentralOhioNORM.txt}}
+\source{\url{https://lingtools.uoregon.edu/norm/downloads/CentralOhioNORM.txt}}
 \author{ Thomas, Erik <erthomas@ncsu.edu> }
 \keyword{datasets}
