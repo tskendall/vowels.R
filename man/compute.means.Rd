@@ -20,7 +20,7 @@ compute.sds(vowels, separate=FALSE, speaker=NA)
   \item{speaker}{ optionally, the speaker_id to extract from the data frame for averaging.  If NA, the default, the function averages across all speakers in the data frame }
 }
 \details{
- Compute the mean formant values the median formant values or the standard deviations in vowel formant data data frames.  These can take either a data frame with F1, F2, and F3 data or just one with F1 and F2 data (such as that resulting from Lobanov or Watt \& Fabricius normalization)
+ Compute the mean formant values the median formant values or the standard deviations in vowel formant data data frames.  These can take either a data frame with F1, F2, and F3 data or just one with F1 and F2 data (such as that resulting from Lobanov or Watt & Fabricius normalization)
  
  compute.sds() mostly exists for use by the add.spread.vowelplot() function.
 }

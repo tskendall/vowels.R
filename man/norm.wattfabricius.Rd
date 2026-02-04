@@ -2,7 +2,7 @@
 \alias{norm.wattfabricius}
 \title{ Normalize Vowels with the Watt & Fabricius Method }
 \description{
-  Normalizes acoustic vowel formant data using the Watt \& Fabricius Method.
+  Normalizes acoustic vowel formant data using the Watt & Fabricius Method.
 }
 \usage{
 norm.wattfabricius(vowels, norm.means=FALSE, mod.WF=FALSE)
