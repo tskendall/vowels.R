@@ -3,6 +3,8 @@ Type: Package
 Title: Vowel Manipulation, Normalization, and Plotting
 Version: 1.2-3
 Date: 2026-02-04
+Author: Tyler Kendall and Erik R. Thomas
+Maintainer: Tyler Kendall <tsk@uoregon.edu>
 Authors@R: c(person(given = "Tyler",
                         family = "Kendall",
                         role = c("aut", "cre"),
