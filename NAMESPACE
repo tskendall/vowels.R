@@ -1,4 +1,4 @@
-# NAMESPACE file for vowels_1.2-2
+# NAMESPACE file for vowels_1.2-3
 
 # Export all names
 exportPattern(".")

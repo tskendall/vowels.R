@@ -17,3 +17,4 @@ Description: Procedures for the manipulation, normalization, and plotting of pho
 License: GPL-3
 Encoding: UTF-8
 URL: http://lingtools.uoregon.edu/norm/
+RoxygenNote: 7.2.3
